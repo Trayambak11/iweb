@@ -1,0 +1,6 @@
+.collapsibleBtn {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    height: 40px;
+}
